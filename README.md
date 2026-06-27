@@ -1,5 +1,4 @@
 # open-ISCR
-Capisco il problema. L'app mobile non gestisce i link di download sandbox. Ecco il contenuto completo della blueprint, così puoi copiarlo e incollarlo direttamente dove preferisci.
 
 ---
 
